@@ -1,5 +1,6 @@
 {
   "name": "zoolt-boilerplate",
+  "version": "v0.1.0",
   "description": "Zoolt SCSS boilerplate (useful tiny mixins, ...)",
   "keywords": [
     "css",
