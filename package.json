@@ -1,0 +1,24 @@
+{
+  "name": "zoolt/boilerplate",
+  "description": "Zoolt SCSS boilerplate (useful tiny mixins, ...)",
+  "keywords": [
+    "css",
+    "sass",
+    "scss",
+    "boilerplate",
+    "mobile-first",
+    "responsive",
+    "front-end",
+    "framework",
+    "web"
+  ],
+  "sass": "scss/boilerplate.scss",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zoolt/boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zoolt/boilerplate/issues"
+  },
+  "license": "MIT",
+}
