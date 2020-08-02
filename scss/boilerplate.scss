@@ -28,6 +28,9 @@ $breakpoints: (
     @if $wrap == false {
         flex-wrap: nowrap;
     }
+    @else if $wrap==wrap {
+        flex-wrap: wrap;
+    }
     @if $direction {
         flex-direction: $direction;
     }
